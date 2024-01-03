@@ -1,6 +1,6 @@
 - 👋 Hi,
-- 👀 I’m interested in sound design
-- 🌱 I’m currently learning C++, Wwise, Unity.
+- 👀 I’m sound designer
+- 🌱 I’m currently learning C++, C#, Wwise, FMOD, Unity, Unreal.
 - 💞️ I’m looking to collaborate on games.
 
 <!---
